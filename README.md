@@ -1,4 +1,5 @@
 # COSC 4353: Software Design Class Repository 💻
+## (THIS BRANCH IS BEFORE ASSIGNMENT 3)
 
 Welcome to the repository for the COSC 4353 Software Design class project. This project is part of our coursework and collaboration in the Software Design class.
 
